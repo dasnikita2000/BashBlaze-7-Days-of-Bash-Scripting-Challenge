@@ -3,7 +3,7 @@
 # First line of the script is the shebang which tells the system how to execute
 
 # Task  2: Echo
-echo "Hello world"
+echo "Hello Friends"
 
 # Task  3: Variables
 Firstname="Nikita"
