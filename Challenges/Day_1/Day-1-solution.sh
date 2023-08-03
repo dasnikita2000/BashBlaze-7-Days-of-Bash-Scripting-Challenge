@@ -3,14 +3,15 @@
 # First line of the script is the shebang which tells the system how to execute
 
 # Task  2: Echo
-echo "Scripting is fun with @TWS"
+echo "Hello world"
 
 # Task  3: Variables
-variable1="Hello"
-variable2="Bash"
+Firstname="Nikita"
+Lastname="Das"
+
 
 # Task  4: Using Variables
-greeting="$variable1, $variable2!"
+greeting="$Firstname $Lastname"
 echo "$greeting Welcome to the world of Bash scripting!"
 
 # Task  5: Using Built-in Variables
@@ -29,3 +30,5 @@ ls *.txt
 
 #Make sure to provide execution permission with the following command:
 #chmod +x day1_script.sh
+
+
